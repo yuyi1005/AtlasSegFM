@@ -111,7 +111,7 @@ After download, the following file should exist:
 fm_models/nnInteractive_v1.0/fold_0/checkpoint_final.pth
 ```
 
-Alternatively, our **[NJU Box download](https://box.nju.edu.cn/d/3654fee430cc44e681a9/)** provides both the nnInteractive weights and the preprocessed HaN-Seg test image example. Place the downloaded files under the repository root so that the model path above and the `test_data/` layout shown below are available.
+Alternatively, we provide the nnInteractive [weights](https://box.nju.edu.cn/d/3654fee430cc44e681a9/). Place them under the repository root so that the model path above is available.
 
 > Step 2 uses `fm_models/nnInteractive_v1.0/` by default (`--model-dir`).
 
