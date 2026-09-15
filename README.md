@@ -10,7 +10,7 @@
 [![Paper](https://img.shields.io/badge/Paper-PDF-green.svg)](https://arxiv.org/pdf/2512.18176)
 [![ECCV](https://img.shields.io/badge/ECCV-2026%20Spotlight-orange.svg)](https://eccv.ecva.net/virtual/2026/spotlight/6050)
 [![Poster](https://img.shields.io/badge/ECCV-Poster-blue.svg)](https://eccv.ecva.net/virtual/2026/poster/3573)
-[![GitHub](https://img.shields.io/badge/GitHub-alfredtorres%2FAtlasSegFM-black.svg)](https://github.com/alfredtorres/AtlasSegFM)
+[![GitHub](https://img.shields.io/badge/GitHub-AtlasSegFM-black.svg)](https://github.com/yuyi1005/AtlasSegFM)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%3E%3D2.0-ee4c2c.svg)](https://pytorch.org/)
 
